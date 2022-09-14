@@ -9,3 +9,6 @@ Questao 3
 git add olaMundo.txt
 git commit -m 
 git push -u origin master
+
+Questao 4
+serei_ignorado.txt
